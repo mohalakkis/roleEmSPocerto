@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Noto Serif', serif;
+}
+
+nav{
+    background-color: #1eb9aa;
+    height: 80px;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+a{
+    color:#000000;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav ul{
+    float: right;
+    margin-right: 150px;
+    margin-top: 30px;
+}
+
+nav ul li{
+    display: inline;
+    margin: 14px;
+    color:pink;
+}
+div{
+    margin: 0%;
+    padding: 0%;
+    margin-top: 10px;
+}
+
+
+
+h3{
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+
+.logo{
+    width: 70px;
+    margin-left: 70px;
+    margin-top: 8px;
+}
+
+.conteudo-header{
+    margin-top: 257px;
+    margin-left: 27%;
+    position: absolute;
+}
+
+.slogan{
+    font-size: 70px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.section2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+    padding-right: 150px;
+};
+
+.cx-esquerda{
+    width: 450px;
+    float: left;
+    margin-right: 3px;
+    margin: 0%;
+    padding: 0%;
+}
+
+.cx-direita p{
+    font-size: 17px;
+    margin-bottom: 28px;
+    line-height: 1.5;
+}
+
+.section3{
+    color:black;
+    padding-top: 73px;
+    padding-bottom: 50px;
+    padding-right: 235px;
+    background-image: url("../img/bkg2.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 499px;
+}
+
+
+.section4{
+    background-image: url("../img/bkg4.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 499px;
+}
+
+.cx-esquerda{
+    width: 520px;
+    margin-left: 150px;
+    margin-top: 550px;
+};
+
+.section2{
+    float: left;
+};
+
+
+
+#nav{
+    position:absolute;
+    vertical-align:center;
+    right:0;
+    font-size:0;
+    text-align:center;
+    margin-top:100px;
+    width:100%;
+};
+

@@ -1,0 +1,66 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+ul{
+  margin: 0px;
+  padding: 0%;
+  list-style: none;
+}
+li{
+  display: inline
+
+}
+
+a{
+
+  margin-right: -38px; 
+  float: left; 
+  font-weight: bold;
+  font-size: 20px;
+  padding: 0px;
+  color: purple;
+  text-decoration: none;
+} 
+
+  #nav{
+    position: absolute;
+    vertical-align: center;
+    right: 0px;
+    font-size: 0px;
+    text-align: center;
+    margin-top: 100px;
+    width: 100%;
+  }
+  nav li{
+    float: right;
+    margin-right: 150px;
+    margin-top: 30px;
+  }  
+
+    .barra {
+      background-color: rgb(44, 139, 95);
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 80px;
+    }
+    .meio{
+      display: flex;
+      justify-content: center;
+      color: purple;
+ 
+    }
+    .logo{
+      width: 70px;
+      margin-left: 70px;
+      margin-top: 8px;
+    }
+
+    .banner{
+    margin-top:80px;
+      
+    }
+    
